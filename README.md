@@ -8,7 +8,7 @@ I am a student and I am learning skills to explore more in the upcoming AI world
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [abhijeetsuryawanshi128@gmail.com](mailto:abhijeetsuryawanshi128@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Core AI techniques
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Superman, but don't tell anyone
 
