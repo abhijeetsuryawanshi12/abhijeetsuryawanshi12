@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijeet Suryawanshi
 ============================================================================================================================================
 
-I am a student and I am learning skills to explore more in the upcoming AI world.
+Hi there! I'm a passionate AI and Machine Learning enthusiast currently in my 4th year of studying Artificial Intelligence and Data Science.
+I'm proudly building Existence as a co-founder—a startup focused on creating innovative solutions and pushing the boundaries of technology.
 
-* 🌍  I'm based in Pune, Maharashtra
-* ✉️  You can contact me at [abhijeetsuryawanshi128@gmail.com](mailto:abhijeetsuryawanshi128@gmail.com)
-* 🧠  I'm learning Core AI Techniques
-* 🤝  I'm open to collaborating on Interesting Projects related to AI
+* 🌍  Developing intelligent systems and tools
+* ✉️  Exploring LLMs, Deep Learning, and Backend Development
+* 🧠  Currently working on Sentient AI.
+* 🤝  You can contact me at [abhijeetsuryawanshi128@gmail.com](mailto:abhijeetsuryawanshi128@gmail.com)
 * ⚡  Believe in Karma
 
 <a href="https://www.github.com/abhijeetsuryawanshi12" target="_blank" rel="noreferrer"><img
