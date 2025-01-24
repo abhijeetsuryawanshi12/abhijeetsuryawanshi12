@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijeet Suryawanshi
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijeet Suryawanshi
 ============================================================================================================================================
 
 Hi there! I'm a passionate AI and Machine Learning enthusiast currently in my 4th year of studying Artificial Intelligence and Data Science.
